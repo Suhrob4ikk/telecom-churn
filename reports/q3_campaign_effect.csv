@@ -1,0 +1,5 @@
+campaign_name,group_type,contacted,churned_3m,churn_3m_pct
+Осенний бонус +5 ГБ,TARGET,602,129,21.4
+Осенний бонус +5 ГБ,CONTROL,610,185,30.3
+Навруз: скидка 30% на 3 месяца,TARGET,711,130,18.3
+Навруз: скидка 30% на 3 месяца,CONTROL,789,237,30.0
